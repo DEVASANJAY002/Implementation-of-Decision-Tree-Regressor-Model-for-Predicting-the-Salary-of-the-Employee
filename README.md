@@ -84,8 +84,8 @@ plt.show()
 ![Screenshot 2025-04-21 220224](https://github.com/user-attachments/assets/f2b5cf44-6267-4ddf-8026-e708a2a6725e)
 
 
-## Developed by : Hariharan M
-## Reg no: 24900770
+## Developed by : DEVASANJAY N
+## Reg no: 212223040032
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
